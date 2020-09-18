@@ -1,2 +1,2 @@
-B
+modificadoB
 este es el 2 archivo
